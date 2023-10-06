@@ -57,7 +57,7 @@
    ttx "wenquanyi_12px.ttf"
    ```
 
-7. 使用 [VS Code](https://code.visualstudio.com/) 或其他能处理大尺寸文本文件的编辑器打开 `wenquanyi_12px.ttx`，按 Ctrl + F 搜索 `namerecord`，参考微软对字体 name table 的解释，将字体名字等信息修改为你想要的内容并保存。
+7. 使用 [VS Code](https://code.visualstudio.com/) 或其他能处理大尺寸文本文件的编辑器打开 `wenquanyi_12px.ttx`，按 Ctrl + F 搜索 `namerecord`，参考[微软对字体 name table 的解释](https://learn.microsoft.com/en-us/typography/opentype/spec/name)，将字体名字等信息修改为你想要的内容并保存。
 
 8. 将修改后的 ttx 文件转换回 ttf。
 
