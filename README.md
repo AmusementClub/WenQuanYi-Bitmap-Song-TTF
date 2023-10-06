@@ -10,11 +10,11 @@
 
 | 尺寸  |       字体名       |        字体名（英）        |     对应源字体     |                             下载                             |
 | :---: | :----------------: | :------------------------: | :----------------: | :----------------------------------------------------------: |
-| 12x12 | 文泉驿点阵宋体12px | WenQuanYi Bitmap Song 12px | wenquanyi_9pt.pcf  | [点击下载](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/WenQuanYi%20Bitmap%20Song%2012px.ttf) |
-| 13x13 | 文泉驿点阵宋体13px | WenQuanYi Bitmap Song 13px | wenquanyi_10pt.pcf | [点击下载](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/WenQuanYi%20Bitmap%20Song%2013px.ttf) |
-| 14x14 | 文泉驿点阵宋体14px | WenQuanYi Bitmap Song 14px | wenquanyi_13px.pcf | [点击下载](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/WenQuanYi%20Bitmap%20Song%2014px.ttf) |
-| 15x15 | 文泉驿点阵宋体15px | WenQuanYi Bitmap Song 15px | wenquanyi_11pt.pcf | [点击下载](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/WenQuanYi%20Bitmap%20Song%2015px.ttf) |
-| 16x16 | 文泉驿点阵宋体16px | WenQuanYi Bitmap Song 16px | wenquanyi_12pt.pcf | [点击下载](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/WenQuanYi%20Bitmap%20Song%2016px.ttf) |
+| 12x12 | 文泉驿点阵宋体12px | WenQuanYi Bitmap Song 12px | wenquanyi_9pt.pcf  | [点击下载](https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/releases/download/v1.0.0-RC1-Build1/WenQuanYi.Bitmap.Song.12px.ttf) |
+| 13x13 | 文泉驿点阵宋体13px | WenQuanYi Bitmap Song 13px | wenquanyi_10pt.pcf | [点击下载](https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/releases/download/v1.0.0-RC1-Build1/WenQuanYi.Bitmap.Song.13px.ttf) |
+| 14x14 | 文泉驿点阵宋体14px | WenQuanYi Bitmap Song 14px | wenquanyi_13px.pcf | [点击下载](https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/releases/download/v1.0.0-RC1-Build1/WenQuanYi.Bitmap.Song.14px.ttf) |
+| 15x15 | 文泉驿点阵宋体15px | WenQuanYi Bitmap Song 15px | wenquanyi_11pt.pcf | [点击下载](https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/releases/download/v1.0.0-RC1-Build1/WenQuanYi.Bitmap.Song.15px.ttf) |
+| 16x16 | 文泉驿点阵宋体16px | WenQuanYi Bitmap Song 16px | wenquanyi_12pt.pcf | [点击下载](https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/releases/download/v1.0.0-RC1-Build1/WenQuanYi.Bitmap.Song.16px.ttf) |
 
 ## 字体预览
 
