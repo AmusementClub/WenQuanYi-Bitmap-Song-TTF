@@ -36,13 +36,13 @@
 3. 利用 pcf2bd 将 pcf 文件转换成 bdf 文件：
 
    ```shell
-   pcf2bdf -o wenquanyi_12px.bdf wenquanyi_9pt.pcf
+   pcf2bdf -o "wenquanyi_12px.bdf" "wenquanyi_9pt.pcf"
    ```
 
 4. 安装 [java](https://www.java.com/en/download/) ，访问 [Bits’N’Picas](https://github.com/kreativekorp/bitsnpicas/releases) 下载 BitsNPicas.jar，然后使用它将 bdf 字体转换成 ttf。
 
    ```shell
-   java -jar BitsNPicas.jar convertbitmap -f ttf -o wenquanyi_12px.ttf wenquanyi_12px.bdf
+   java -jar BitsNPicas.jar convertbitmap -f ttf -o "wenquanyi_12px.ttf" "wenquanyi_12px.bdf"
    ```
 
 5. 安装 [python3](https://www.python.org/downloads/) (3.8 或以上版本) 并使用 pip 安装 [fonttools](https://github.com/fonttools/fonttools)
@@ -54,7 +54,7 @@
 6. 使用 fonttools 的 ttx 程序将 ttf 字体转换成 ttx 格式：
 
    ``` shell
-   ttx wenquanyi_12px.ttf
+   ttx "wenquanyi_12px.ttf"
    ```
 
 7. 使用 [VS Code](https://code.visualstudio.com/) 或其他能处理大尺寸文本文件的编辑器打开 `wenquanyi_12px.ttx`，按 Ctrl + F 搜索 `namerecord`，参考微软对字体 name table 的解释，将字体名字等信息修改为你想要的内容并保存。
@@ -62,7 +62,7 @@
 8. 将修改后的 ttx 文件转换回 ttf。
 
    ``` shell
-   ttx -o "WenQuanYi Bitmap Song 12px" wenquanyi_12px.ttx 
+   ttx -o "WenQuanYi Bitmap Song 12px.ttf" "wenquanyi_12px.ttx" 
    ```
 
 9. 正常使用你转换好的 ttf 文件。
