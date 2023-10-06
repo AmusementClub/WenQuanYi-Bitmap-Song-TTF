@@ -8,13 +8,13 @@
 
 为了方便使用，转换后的字体名称修改成了点阵的尺寸大小，以下是字体名称对照表：
 
-| 尺寸  |       字体名       |        字体名（英）        |     对应源字体     |   下载   |
-| :---: | :----------------: | :------------------------: | :----------------: | :------: |
-| 12x12 | 文泉驿点阵宋体12px | WenQuanYi Bitmap Song 12px | wenquanyi_9pt.pcf  | 点击下载 |
-| 13x13 | 文泉驿点阵宋体13px | WenQuanYi Bitmap Song 13px | wenquanyi_10pt.pcf | 点击下载 |
-| 14x14 | 文泉驿点阵宋体14px | WenQuanYi Bitmap Song 14px | wenquanyi_13px.pcf | 点击下载 |
-| 15x15 | 文泉驿点阵宋体15px | WenQuanYi Bitmap Song 15px | wenquanyi_11pt.pcf | 点击下载 |
-| 16x16 | 文泉驿点阵宋体16px | WenQuanYi Bitmap Song 16px | wenquanyi_12pt.pcf | 点击下载 |
+| 尺寸  |       字体名       |        字体名（英）        |     对应源字体     |                             下载                             |
+| :---: | :----------------: | :------------------------: | :----------------: | :----------------------------------------------------------: |
+| 12x12 | 文泉驿点阵宋体12px | WenQuanYi Bitmap Song 12px | wenquanyi_9pt.pcf  | [点击下载](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/WenQuanYi%20Bitmap%20Song%2012px.ttf) |
+| 13x13 | 文泉驿点阵宋体13px | WenQuanYi Bitmap Song 13px | wenquanyi_10pt.pcf | [点击下载](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/WenQuanYi%20Bitmap%20Song%2013px.ttf) |
+| 14x14 | 文泉驿点阵宋体14px | WenQuanYi Bitmap Song 14px | wenquanyi_13px.pcf | [点击下载](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/WenQuanYi%20Bitmap%20Song%2014px.ttf) |
+| 15x15 | 文泉驿点阵宋体15px | WenQuanYi Bitmap Song 15px | wenquanyi_11pt.pcf | [点击下载](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/WenQuanYi%20Bitmap%20Song%2015px.ttf) |
+| 16x16 | 文泉驿点阵宋体16px | WenQuanYi Bitmap Song 16px | wenquanyi_12pt.pcf | [点击下载](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/WenQuanYi%20Bitmap%20Song%2016px.ttf) |
 
 ## 字体预览
 
@@ -85,5 +85,6 @@
 
 ## 授权许可
 
-本字体版权为“[文泉驿信任委员会(Board of Trustees)](http://wenq.org/wqy2/index.cgi?CopyrightPolicy)”, [FangQ](http://wenq.org/wqy2/index.cgi?FangQ)和[Firefly](http://wenq.org/wqy2/index.cgi?Firefly)所有。字体授权继承文泉驿点阵宋体所采用的 GNU Public License v2 (附加允许文档嵌入条款)，详情请参照文泉驿 README 文件。
+本字体版权为“[文泉驿信任委员会(Board of Trustees)](http://wenq.org/wqy2/index.cgi?CopyrightPolicy)”, [FangQ](http://wenq.org/wqy2/index.cgi?FangQ)和[Firefly](http://wenq.org/wqy2/index.cgi?Firefly)所有。字体授权继承文泉驿点阵宋体所采用的 GNU Public License v2 (附加允许文档嵌入条款)，详情请参照文泉驿 [README](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/tree/master/Original%20Fonts) 文件。
 
+[字体作者](https://github.com/AmusementClub/Wenquanyi-Bitmap-Song-TTF/blob/master/Original%20Fonts/AUTHORS)
